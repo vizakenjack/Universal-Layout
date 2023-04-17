@@ -10,7 +10,19 @@
 - Вместо ^ теперь |
 - Поменялись местами {} и []
 
-Информация о часто используемых символах:
+В итоге получается так:
+
+Английская раскладка:
+![English](https://github.com/vizakenjack/Universal-Layout/raw/master/img/en.jpg)
+
+Русская раскладка:
+![Russian](https://github.com/vizakenjack/Universal-Layout/raw/master/img/ru.jpg)
+
+### Почему именно так?
+
+Чтобы наиболее часто используемые символы нажимались без шифта.
+
+Информация взята отсюда:
 http://xahlee.info/comp/computer_language_char_distribution.html
 
 ![Char frequency](http://xahlee.info/comp/i/computer_language_char_frequency.png)
