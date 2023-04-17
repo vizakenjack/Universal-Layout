@@ -10,8 +10,6 @@
 - Вместо ^ теперь |
 - Поменялись местами {} и []
 
-В итоге получается так:
-
 Английская раскладка:
 ![English](https://github.com/vizakenjack/Universal-Layout/raw/master/img/en.jpg)
 
@@ -20,12 +18,18 @@
 
 ### Почему именно так?
 
-Чтобы наиболее часто используемые символы нажимались без шифта.
+Чтобы частоиспользуемые символы нажимались без шифта.
 
 Информация взята отсюда:
 http://xahlee.info/comp/computer_language_char_distribution.html
 
 ![Char frequency](http://xahlee.info/comp/i/computer_language_char_frequency.png)
+
+### Скачать
+
+https://github.com/vizakenjack/Universal-Layout/releases/tag/release-1.8-coding
+
+Для редактирования можно использовать [Ukelele](https://software.sil.org/ukelele/)
 
 ### Титры
 
